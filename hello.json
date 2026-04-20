@@ -1,0 +1,940 @@
+Parsed XML structure: [
+[0]   {
+[0]     "?xml": [
+[0]       {
+[0]         "#text": ""
+[0]       }
+[0]     ],
+[0]     ":@": {
+[0]       "version": "1.0",
+[0]       "encoding": "UTF-8",
+[0]       "standalone": "yes"
+[0]     }
+[0]   },
+[0]   {
+[0]     "w:document": [
+[0]       {
+[0]         "w:body": [
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "Q1: Find the current in the circuit shown below"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:rPr": [
+[0]                       {
+[0]                         "w:noProof": []
+[0]                       }
+[0]                     ]
+[0]                   },
+[0]                   {
+[0]                     "w:drawing": [
+[0]                       {
+[0]                         "wp:inline": [
+[0]                           {
+[0]                             "wp:extent": [],
+[0]                             ":@": {
+[0]                               "cx": "2011680",
+[0]                               "cy": "1131570"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:effectExtent": [],
+[0]                             ":@": {
+[0]                               "l": "0",
+[0]                               "t": "0",
+[0]                               "r": "0",
+[0]                               "b": "0"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:docPr": [],
+[0]                             ":@": {
+[0]                               "id": "1",
+[0]                               "name": "Picture 1"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:cNvGraphicFramePr": [
+[0]                               {
+[0]                                 "a:graphicFrameLocks": [],
+[0]                                 ":@": {
+[0]                                   "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+[0]                                   "noChangeAspect": "1"
+[0]                                 }
+[0]                               }
+[0]                             ]
+[0]                           },
+[0]                           {
+[0]                             "a:graphic": [
+[0]                               {
+[0]                                 "a:graphicData": [
+[0]                                   {
+[0]                                     "pic:pic": [
+[0]                                       {
+[0]                                         "pic:nvPicPr": [
+[0]                                           {
+[0]                                             "pic:cNvPr": [],
+[0]                                             ":@": {
+[0]                                               "id": "0",
+[0]                                               "name": "diagram.png"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "pic:cNvPicPr": []
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:blipFill": [
+[0]                                           {
+[0]                                             "a:blip": [],
+[0]                                             ":@": {
+[0]                                               "r:embed": "rId6"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "a:stretch": [
+[0]                                               {
+[0]                                                 "a:fillRect": []
+[0]                                               }
+[0]                                             ]
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:spPr": [
+[0]                                           {
+[0]                                             "a:xfrm": [
+[0]                                               {
+[0]                                                 "a:off": [],
+[0]                                                 ":@": {
+[0]                                                   "x": "0",
+[0]                                                   "y": "0"
+[0]                                                 }
+[0]                                               },
+[0]                                               {
+[0]                                                 "a:ext": [],
+[0]                                                 ":@": {
+[0]                                                   "cx": "2011680",
+[0]                                                   "cy": "1131570"
+[0]                                                 }
+[0]                                               }
+[0]                                             ]
+[0]                                           },
+[0]                                           {
+[0]                                             "a:prstGeom": [
+[0]                                               {
+[0]                                                 "a:avLst": []
+[0]                                               }
+[0]                                             ],
+[0]                                             ":@": {
+[0]                                               "prst": "rect"
+[0]                                             }
+[0]                                           }
+[0]                                         ]
+[0]                                       }
+[0]                                     ],
+[0]                                     ":@": {
+[0]                                       "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                     }
+[0]                                   }
+[0]                                 ],
+[0]                                 ":@": {
+[0]                                   "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                 }
+[0]                               }
+[0]                             ],
+[0]                             ":@": {
+[0]                               "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+[0]                             }
+[0]                           }
+[0]                         ],
+[0]                         ":@": {
+[0]                           "distT": "0",
+[0]                           "distB": "0",
+[0]                           "distL": "0",
+[0]                           "distR": "0"
+[0]                         }
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "A. 2A"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               },
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:rPr": [
+[0]                       {
+[0]                         "w:noProof": []
+[0]                       }
+[0]                     ]
+[0]                   },
+[0]                   {
+[0]                     "w:drawing": [
+[0]                       {
+[0]                         "wp:inline": [
+[0]                           {
+[0]                             "wp:extent": [],
+[0]                             ":@": {
+[0]                               "cx": "5486400",
+[0]                               "cy": "2366645"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:effectExtent": [],
+[0]                             ":@": {
+[0]                               "l": "19050",
+[0]                               "t": "0",
+[0]                               "r": "0",
+[0]                               "b": "0"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:docPr": [],
+[0]                             ":@": {
+[0]                               "id": "6",
+[0]                               "name": "Picture 5",
+[0]                               "descr": "Untitled.png"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:cNvGraphicFramePr": [
+[0]                               {
+[0]                                 "a:graphicFrameLocks": [],
+[0]                                 ":@": {
+[0]                                   "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+[0]                                   "noChangeAspect": "1"
+[0]                                 }
+[0]                               }
+[0]                             ]
+[0]                           },
+[0]                           {
+[0]                             "a:graphic": [
+[0]                               {
+[0]                                 "a:graphicData": [
+[0]                                   {
+[0]                                     "pic:pic": [
+[0]                                       {
+[0]                                         "pic:nvPicPr": [
+[0]                                           {
+[0]                                             "pic:cNvPr": [],
+[0]                                             ":@": {
+[0]                                               "id": "0",
+[0]                                               "name": "Untitled.png"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "pic:cNvPicPr": []
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:blipFill": [
+[0]                                           {
+[0]                                             "a:blip": [],
+[0]                                             ":@": {
+[0]                                               "r:embed": "rId7"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "a:stretch": [
+[0]                                               {
+[0]                                                 "a:fillRect": []
+[0]                                               }
+[0]                                             ]
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:spPr": [
+[0]                                           {
+[0]                                             "a:xfrm": [
+[0]                                               {
+[0]                                                 "a:off": [],
+[0]                                                 ":@": {
+[0]                                                   "x": "0",
+[0]                                                   "y": "0"
+[0]                                                 }
+[0]                                               },
+[0]                                               {
+[0]                                                 "a:ext": [],
+[0]                                                 ":@": {
+[0]                                                   "cx": "5486400",
+[0]                                                   "cy": "2366645"
+[0]                                                 }
+[0]                                               }
+[0]                                             ]
+[0]                                           },
+[0]                                           {
+[0]                                             "a:prstGeom": [
+[0]                                               {
+[0]                                                 "a:avLst": []
+[0]                                               }
+[0]                                             ],
+[0]                                             ":@": {
+[0]                                               "prst": "rect"
+[0]                                             }
+[0]                                           }
+[0]                                         ]
+[0]                                       }
+[0]                                     ],
+[0]                                     ":@": {
+[0]                                       "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                     }
+[0]                                   }
+[0]                                 ],
+[0]                                 ":@": {
+[0]                                   "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                 }
+[0]                               }
+[0]                             ],
+[0]                             ":@": {
+[0]                               "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+[0]                             }
+[0]                           }
+[0]                         ],
+[0]                         ":@": {
+[0]                           "distT": "0",
+[0]                           "distB": "0",
+[0]                           "distL": "0",
+[0]                           "distR": "0"
+[0]                         }
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ],
+[0]                 ":@": {
+[0]                   "w:rsidR": "00E3309D"
+[0]                 }
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "B. 3A"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "C. 4A"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "D. 5A"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "Solution: Use V = IR and substitute the given values."
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "Hint: Start from Ohm's law."
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "Q2: Identify the equivalent resistance"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "A. 1 Ohm"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               },
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": " "
+[0]                       }
+[0]                     ],
+[0]                     ":@": {
+[0]                       "xml:space": "preserve"
+[0]                     }
+[0]                   }
+[0]                 ],
+[0]                 ":@": {
+[0]                   "w:rsidR": "005C27E9"
+[0]                 }
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "003F70E1",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "B. 2 Ohm"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "C. 3 Ohm"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "D. 4 Ohm"
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:t": [
+[0]                       {
+[0]                         "#text": "Solution: Series resistances add up."
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:rPr": [
+[0]                       {
+[0]                         "w:noProof": []
+[0]                       }
+[0]                     ]
+[0]                   },
+[0]                   {
+[0]                     "w:lastRenderedPageBreak": []
+[0]                   },
+[0]                   {
+[0]                     "w:drawing": [
+[0]                       {
+[0]                         "wp:inline": [
+[0]                           {
+[0]                             "wp:extent": [],
+[0]                             ":@": {
+[0]                               "cx": "5486400",
+[0]                               "cy": "2366645"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:effectExtent": [],
+[0]                             ":@": {
+[0]                               "l": "19050",
+[0]                               "t": "0",
+[0]                               "r": "0",
+[0]                               "b": "0"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:docPr": [],
+[0]                             ":@": {
+[0]                               "id": "5",
+[0]                               "name": "Picture 4",
+[0]                               "descr": "Untitled.png"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:cNvGraphicFramePr": [
+[0]                               {
+[0]                                 "a:graphicFrameLocks": [],
+[0]                                 ":@": {
+[0]                                   "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+[0]                                   "noChangeAspect": "1"
+[0]                                 }
+[0]                               }
+[0]                             ]
+[0]                           },
+[0]                           {
+[0]                             "a:graphic": [
+[0]                               {
+[0]                                 "a:graphicData": [
+[0]                                   {
+[0]                                     "pic:pic": [
+[0]                                       {
+[0]                                         "pic:nvPicPr": [
+[0]                                           {
+[0]                                             "pic:cNvPr": [],
+[0]                                             ":@": {
+[0]                                               "id": "0",
+[0]                                               "name": "Untitled.png"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "pic:cNvPicPr": []
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:blipFill": [
+[0]                                           {
+[0]                                             "a:blip": [],
+[0]                                             ":@": {
+[0]                                               "r:embed": "rId7"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "a:stretch": [
+[0]                                               {
+[0]                                                 "a:fillRect": []
+[0]                                               }
+[0]                                             ]
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:spPr": [
+[0]                                           {
+[0]                                             "a:xfrm": [
+[0]                                               {
+[0]                                                 "a:off": [],
+[0]                                                 ":@": {
+[0]                                                   "x": "0",
+[0]                                                   "y": "0"
+[0]                                                 }
+[0]                                               },
+[0]                                               {
+[0]                                                 "a:ext": [],
+[0]                                                 ":@": {
+[0]                                                   "cx": "5486400",
+[0]                                                   "cy": "2366645"
+[0]                                                 }
+[0]                                               }
+[0]                                             ]
+[0]                                           },
+[0]                                           {
+[0]                                             "a:prstGeom": [
+[0]                                               {
+[0]                                                 "a:avLst": []
+[0]                                               }
+[0]                                             ],
+[0]                                             ":@": {
+[0]                                               "prst": "rect"
+[0]                                             }
+[0]                                           }
+[0]                                         ]
+[0]                                       }
+[0]                                     ],
+[0]                                     ":@": {
+[0]                                       "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                     }
+[0]                                   }
+[0]                                 ],
+[0]                                 ":@": {
+[0]                                   "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                 }
+[0]                               }
+[0]                             ],
+[0]                             ":@": {
+[0]                               "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+[0]                             }
+[0]                           }
+[0]                         ],
+[0]                         ":@": {
+[0]                           "distT": "0",
+[0]                           "distB": "0",
+[0]                           "distL": "0",
+[0]                           "distR": "0"
+[0]                         }
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00572540",
+[0]               "w:rsidRDefault": "00572540"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:p": [
+[0]               {
+[0]                 "w:r": [
+[0]                   {
+[0]                     "w:rPr": [
+[0]                       {
+[0]                         "w:noProof": []
+[0]                       }
+[0]                     ]
+[0]                   },
+[0]                   {
+[0]                     "w:drawing": [
+[0]                       {
+[0]                         "wp:inline": [
+[0]                           {
+[0]                             "wp:extent": [],
+[0]                             ":@": {
+[0]                               "cx": "1645920",
+[0]                               "cy": "925830"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:effectExtent": [],
+[0]                             ":@": {
+[0]                               "l": "0",
+[0]                               "t": "0",
+[0]                               "r": "0",
+[0]                               "b": "0"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:docPr": [],
+[0]                             ":@": {
+[0]                               "id": "2",
+[0]                               "name": "Picture 2"
+[0]                             }
+[0]                           },
+[0]                           {
+[0]                             "wp:cNvGraphicFramePr": [
+[0]                               {
+[0]                                 "a:graphicFrameLocks": [],
+[0]                                 ":@": {
+[0]                                   "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+[0]                                   "noChangeAspect": "1"
+[0]                                 }
+[0]                               }
+[0]                             ]
+[0]                           },
+[0]                           {
+[0]                             "a:graphic": [
+[0]                               {
+[0]                                 "a:graphicData": [
+[0]                                   {
+[0]                                     "pic:pic": [
+[0]                                       {
+[0]                                         "pic:nvPicPr": [
+[0]                                           {
+[0]                                             "pic:cNvPr": [],
+[0]                                             ":@": {
+[0]                                               "id": "0",
+[0]                                               "name": "diagram.png"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "pic:cNvPicPr": []
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:blipFill": [
+[0]                                           {
+[0]                                             "a:blip": [],
+[0]                                             ":@": {
+[0]                                               "r:embed": "rId6"
+[0]                                             }
+[0]                                           },
+[0]                                           {
+[0]                                             "a:stretch": [
+[0]                                               {
+[0]                                                 "a:fillRect": []
+[0]                                               }
+[0]                                             ]
+[0]                                           }
+[0]                                         ]
+[0]                                       },
+[0]                                       {
+[0]                                         "pic:spPr": [
+[0]                                           {
+[0]                                             "a:xfrm": [
+[0]                                               {
+[0]                                                 "a:off": [],
+[0]                                                 ":@": {
+[0]                                                   "x": "0",
+[0]                                                   "y": "0"
+[0]                                                 }
+[0]                                               },
+[0]                                               {
+[0]                                                 "a:ext": [],
+[0]                                                 ":@": {
+[0]                                                   "cx": "1645920",
+[0]                                                   "cy": "925830"
+[0]                                                 }
+[0]                                               }
+[0]                                             ]
+[0]                                           },
+[0]                                           {
+[0]                                             "a:prstGeom": [
+[0]                                               {
+[0]                                                 "a:avLst": []
+[0]                                               }
+[0]                                             ],
+[0]                                             ":@": {
+[0]                                               "prst": "rect"
+[0]                                             }
+[0]                                           }
+[0]                                         ]
+[0]                                       }
+[0]                                     ],
+[0]                                     ":@": {
+[0]                                       "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                     }
+[0]                                   }
+[0]                                 ],
+[0]                                 ":@": {
+[0]                                   "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+[0]                                 }
+[0]                               }
+[0]                             ],
+[0]                             ":@": {
+[0]                               "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+[0]                             }
+[0]                           }
+[0]                         ],
+[0]                         ":@": {
+[0]                           "distT": "0",
+[0]                           "distB": "0",
+[0]                           "distL": "0",
+[0]                           "distR": "0"
+[0]                         }
+[0]                       }
+[0]                     ]
+[0]                   }
+[0]                 ]
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidRDefault": "007A0150"
+[0]             }
+[0]           },
+[0]           {
+[0]             "w:sectPr": [
+[0]               {
+[0]                 "w:pgSz": [],
+[0]                 ":@": {
+[0]                   "w:w": "12240",
+[0]                   "w:h": "15840"
+[0]                 }
+[0]               },
+[0]               {
+[0]                 "w:pgMar": [],
+[0]                 ":@": {
+[0]                   "w:top": "1440",
+[0]                   "w:right": "1800",
+[0]                   "w:bottom": "1440",
+[0]                   "w:left": "1800",
+[0]                   "w:header": "720",
+[0]                   "w:footer": "720",
+[0]                   "w:gutter": "0"
+[0]                 }
+[0]               },
+[0]               {
+[0]                 "w:cols": [],
+[0]                 ":@": {
+[0]                   "w:space": "720"
+[0]                 }
+[0]               },
+[0]               {
+[0]                 "w:docGrid": [],
+[0]                 ":@": {
+[0]                   "w:linePitch": "360"
+[0]                 }
+[0]               }
+[0]             ],
+[0]             ":@": {
+[0]               "w:rsidR": "00A300E6",
+[0]               "w:rsidSect": "00034616"
+[0]             }
+[0]           }
+[0]         ]
+[0]       }
+[0]     ],
+[0]     ":@": {
+[0]       "xmlns:ve": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+[0]       "xmlns:o": "urn:schemas-microsoft-com:office:office",
+[0]       "xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+[0]       "xmlns:m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+[0]       "xmlns:v": "urn:schemas-microsoft-com:vml",
+[0]       "xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+[0]       "xmlns:w10": "urn:schemas-microsoft-com:office:word",
+[0]       "xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+[0]       "xmlns:wne": "http://schemas.microsoft.com/office/word/2006/wordml"
+[0]     }
+[0]   }
+[0] ]

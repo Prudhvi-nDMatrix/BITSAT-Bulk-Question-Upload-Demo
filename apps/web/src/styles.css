@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    font-family: "Inter", system-ui, sans-serif;
+    color: #1f1f1c;
+    background: #efe4d3;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(circle at top left, rgba(249, 115, 22, 0.18), transparent 28%),
+      radial-gradient(circle at right center, rgba(21, 128, 61, 0.12), transparent 24%),
+      linear-gradient(180deg, #efe4d3 0%, #f6f1e7 55%, #e7dcc9 100%);
+    @apply text-stone-900 antialiased;
+  }
+
+  code {
+    font-family: "SFMono-Regular", Consolas, monospace;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    background: linear-gradient(180deg, rgba(255, 253, 248, 0.84), rgba(255, 249, 241, 0.72));
+    @apply rounded-[28px] border border-white/40 shadow-card backdrop-blur-xl;
+  }
+
+  .field-label {
+    @apply text-[11px] font-semibold uppercase tracking-[0.22em] text-stone-500;
+  }
+
+  .status-pill {
+    @apply inline-flex items-center rounded-full px-4 py-2 text-[11px] font-bold uppercase tracking-[0.22em];
+  }
+
+  .metric-card {
+    @apply rounded-3xl border border-white/50 bg-white/70 p-4 shadow-sm;
+  }
+}

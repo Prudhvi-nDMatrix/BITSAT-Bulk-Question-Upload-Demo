@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+storage/demo/assets/
+storage/demo/scratch/
+storage/demo/uploads/
+
+.DS_Store

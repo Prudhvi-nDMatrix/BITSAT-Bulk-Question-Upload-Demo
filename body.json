@@ -1,0 +1,909 @@
+[
+  {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "Q1: Find the current in the circuit shown below"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:rPr": [
+               {
+                 "w:noProof": []
+               }
+             ]
+           },
+           {
+             "w:drawing": [
+               {
+                 "wp:inline": [
+                   {
+                     "wp:extent": [],
+                     ":@": {
+                       "cx": "2011680",
+                       "cy": "1131570"
+                     }
+                   },
+                   {
+                     "wp:effectExtent": [],
+                     ":@": {
+                       "l": "0",
+                       "t": "0",
+                       "r": "0",
+                       "b": "0"
+                     }
+                   },
+                   {
+                     "wp:docPr": [],
+                     ":@": {
+                       "id": "1",
+                       "name": "Picture 1"
+                     }
+                   },
+                   {
+                     "wp:cNvGraphicFramePr": [
+                       {
+                         "a:graphicFrameLocks": [],
+                         ":@": {
+                           "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                           "noChangeAspect": "1"
+                         }
+                       }
+                     ]
+                   },
+                   {
+                     "a:graphic": [
+                       {
+                         "a:graphicData": [
+                           {
+                             "pic:pic": [
+                               {
+                                 "pic:nvPicPr": [
+                                   {
+                                     "pic:cNvPr": [],
+                                     ":@": {
+                                       "id": "0",
+                                       "name": "diagram.png"
+                                     }
+                                   },
+                                   {
+                                     "pic:cNvPicPr": []
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:blipFill": [
+                                   {
+                                     "a:blip": [],
+                                     ":@": {
+                                       "r:embed": "rId6"
+                                     }
+                                   },
+                                   {
+                                     "a:stretch": [
+                                       {
+                                         "a:fillRect": []
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:spPr": [
+                                   {
+                                     "a:xfrm": [
+                                       {
+                                         "a:off": [],
+                                         ":@": {
+                                           "x": "0",
+                                           "y": "0"
+                                         }
+                                       },
+                                       {
+                                         "a:ext": [],
+                                         ":@": {
+                                           "cx": "2011680",
+                                           "cy": "1131570"
+                                         }
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "a:prstGeom": [
+                                       {
+                                         "a:avLst": []
+                                       }
+                                     ],
+                                     ":@": {
+                                       "prst": "rect"
+                                     }
+                                   }
+                                 ]
+                               }
+                             ],
+                             ":@": {
+                               "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                             }
+                           }
+                         ],
+                         ":@": {
+                           "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                         }
+                       }
+                     ],
+                     ":@": {
+                       "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+                     }
+                   }
+                 ],
+                 ":@": {
+                   "distT": "0",
+                   "distB": "0",
+                   "distL": "0",
+                   "distR": "0"
+                 }
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "A. 2A"
+               }
+             ]
+           }
+         ]
+       },
+       {
+         "w:r": [
+           {
+             "w:rPr": [
+               {
+                 "w:noProof": []
+               }
+             ]
+           },
+           {
+             "w:drawing": [
+               {
+                 "wp:inline": [
+                   {
+                     "wp:extent": [],
+                     ":@": {
+                       "cx": "5486400",
+                       "cy": "2366645"
+                     }
+                   },
+                   {
+                     "wp:effectExtent": [],
+                     ":@": {
+                       "l": "19050",
+                       "t": "0",
+                       "r": "0",
+                       "b": "0"
+                     }
+                   },
+                   {
+                     "wp:docPr": [],
+                     ":@": {
+                       "id": "6",
+                       "name": "Picture 5",
+                       "descr": "Untitled.png"
+                     }
+                   },
+                   {
+                     "wp:cNvGraphicFramePr": [
+                       {
+                         "a:graphicFrameLocks": [],
+                         ":@": {
+                           "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                           "noChangeAspect": "1"
+                         }
+                       }
+                     ]
+                   },
+                   {
+                     "a:graphic": [
+                       {
+                         "a:graphicData": [
+                           {
+                             "pic:pic": [
+                               {
+                                 "pic:nvPicPr": [
+                                   {
+                                     "pic:cNvPr": [],
+                                     ":@": {
+                                       "id": "0",
+                                       "name": "Untitled.png"
+                                     }
+                                   },
+                                   {
+                                     "pic:cNvPicPr": []
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:blipFill": [
+                                   {
+                                     "a:blip": [],
+                                     ":@": {
+                                       "r:embed": "rId7"
+                                     }
+                                   },
+                                   {
+                                     "a:stretch": [
+                                       {
+                                         "a:fillRect": []
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:spPr": [
+                                   {
+                                     "a:xfrm": [
+                                       {
+                                         "a:off": [],
+                                         ":@": {
+                                           "x": "0",
+                                           "y": "0"
+                                         }
+                                       },
+                                       {
+                                         "a:ext": [],
+                                         ":@": {
+                                           "cx": "5486400",
+                                           "cy": "2366645"
+                                         }
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "a:prstGeom": [
+                                       {
+                                         "a:avLst": []
+                                       }
+                                     ],
+                                     ":@": {
+                                       "prst": "rect"
+                                     }
+                                   }
+                                 ]
+                               }
+                             ],
+                             ":@": {
+                               "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                             }
+                           }
+                         ],
+                         ":@": {
+                           "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                         }
+                       }
+                     ],
+                     ":@": {
+                       "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+                     }
+                   }
+                 ],
+                 ":@": {
+                   "distT": "0",
+                   "distB": "0",
+                   "distL": "0",
+                   "distR": "0"
+                 }
+               }
+             ]
+           }
+         ],
+         ":@": {
+           "w:rsidR": "00E3309D"
+         }
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "B. 3A"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "C. 4A"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "D. 5A"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "Solution: Use V = IR and substitute the given values."
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "Hint: Start from Ohm's law."
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "Q2: Identify the equivalent resistance"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "A. 1 Ohm"
+               }
+             ]
+           }
+         ]
+       },
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": " "
+               }
+             ],
+             ":@": {
+               "xml:space": "preserve"
+             }
+           }
+         ],
+         ":@": {
+           "w:rsidR": "005C27E9"
+         }
+       }
+     ],
+     ":@": {
+       "w:rsidR": "003F70E1",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "B. 2 Ohm"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "C. 3 Ohm"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "D. 4 Ohm"
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:t": [
+               {
+                 "#text": "Solution: Series resistances add up."
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:rPr": [
+               {
+                 "w:noProof": []
+               }
+             ]
+           },
+           {
+             "w:lastRenderedPageBreak": []
+           },
+           {
+             "w:drawing": [
+               {
+                 "wp:inline": [
+                   {
+                     "wp:extent": [],
+                     ":@": {
+                       "cx": "5486400",
+                       "cy": "2366645"
+                     }
+                   },
+                   {
+                     "wp:effectExtent": [],
+                     ":@": {
+                       "l": "19050",
+                       "t": "0",
+                       "r": "0",
+                       "b": "0"
+                     }
+                   },
+                   {
+                     "wp:docPr": [],
+                     ":@": {
+                       "id": "5",
+                       "name": "Picture 4",
+                       "descr": "Untitled.png"
+                     }
+                   },
+                   {
+                     "wp:cNvGraphicFramePr": [
+                       {
+                         "a:graphicFrameLocks": [],
+                         ":@": {
+                           "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                           "noChangeAspect": "1"
+                         }
+                       }
+                     ]
+                   },
+                   {
+                     "a:graphic": [
+                       {
+                         "a:graphicData": [
+                           {
+                             "pic:pic": [
+                               {
+                                 "pic:nvPicPr": [
+                                   {
+                                     "pic:cNvPr": [],
+                                     ":@": {
+                                       "id": "0",
+                                       "name": "Untitled.png"
+                                     }
+                                   },
+                                   {
+                                     "pic:cNvPicPr": []
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:blipFill": [
+                                   {
+                                     "a:blip": [],
+                                     ":@": {
+                                       "r:embed": "rId7"
+                                     }
+                                   },
+                                   {
+                                     "a:stretch": [
+                                       {
+                                         "a:fillRect": []
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:spPr": [
+                                   {
+                                     "a:xfrm": [
+                                       {
+                                         "a:off": [],
+                                         ":@": {
+                                           "x": "0",
+                                           "y": "0"
+                                         }
+                                       },
+                                       {
+                                         "a:ext": [],
+                                         ":@": {
+                                           "cx": "5486400",
+                                           "cy": "2366645"
+                                         }
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "a:prstGeom": [
+                                       {
+                                         "a:avLst": []
+                                       }
+                                     ],
+                                     ":@": {
+                                       "prst": "rect"
+                                     }
+                                   }
+                                 ]
+                               }
+                             ],
+                             ":@": {
+                               "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                             }
+                           }
+                         ],
+                         ":@": {
+                           "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                         }
+                       }
+                     ],
+                     ":@": {
+                       "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+                     }
+                   }
+                 ],
+                 ":@": {
+                   "distT": "0",
+                   "distB": "0",
+                   "distL": "0",
+                   "distR": "0"
+                 }
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00572540",
+       "w:rsidRDefault": "00572540"
+     }
+   },
+   {
+     "w:p": [
+       {
+         "w:r": [
+           {
+             "w:rPr": [
+               {
+                 "w:noProof": []
+               }
+             ]
+           },
+           {
+             "w:drawing": [
+               {
+                 "wp:inline": [
+                   {
+                     "wp:extent": [],
+                     ":@": {
+                       "cx": "1645920",
+                       "cy": "925830"
+                     }
+                   },
+                   {
+                     "wp:effectExtent": [],
+                     ":@": {
+                       "l": "0",
+                       "t": "0",
+                       "r": "0",
+                       "b": "0"
+                     }
+                   },
+                   {
+                     "wp:docPr": [],
+                     ":@": {
+                       "id": "2",
+                       "name": "Picture 2"
+                     }
+                   },
+                   {
+                     "wp:cNvGraphicFramePr": [
+                       {
+                         "a:graphicFrameLocks": [],
+                         ":@": {
+                           "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main",
+                           "noChangeAspect": "1"
+                         }
+                       }
+                     ]
+                   },
+                   {
+                     "a:graphic": [
+                       {
+                         "a:graphicData": [
+                           {
+                             "pic:pic": [
+                               {
+                                 "pic:nvPicPr": [
+                                   {
+                                     "pic:cNvPr": [],
+                                     ":@": {
+                                       "id": "0",
+                                       "name": "diagram.png"
+                                     }
+                                   },
+                                   {
+                                     "pic:cNvPicPr": []
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:blipFill": [
+                                   {
+                                     "a:blip": [],
+                                     ":@": {
+                                       "r:embed": "rId6"
+                                     }
+                                   },
+                                   {
+                                     "a:stretch": [
+                                       {
+                                         "a:fillRect": []
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "pic:spPr": [
+                                   {
+                                     "a:xfrm": [
+                                       {
+                                         "a:off": [],
+                                         ":@": {
+                                           "x": "0",
+                                           "y": "0"
+                                         }
+                                       },
+                                       {
+                                         "a:ext": [],
+                                         ":@": {
+                                           "cx": "1645920",
+                                           "cy": "925830"
+                                         }
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "a:prstGeom": [
+                                       {
+                                         "a:avLst": []
+                                       }
+                                     ],
+                                     ":@": {
+                                       "prst": "rect"
+                                     }
+                                   }
+                                 ]
+                               }
+                             ],
+                             ":@": {
+                               "xmlns:pic": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                             }
+                           }
+                         ],
+                         ":@": {
+                           "uri": "http://schemas.openxmlformats.org/drawingml/2006/picture"
+                         }
+                       }
+                     ],
+                     ":@": {
+                       "xmlns:a": "http://schemas.openxmlformats.org/drawingml/2006/main"
+                     }
+                   }
+                 ],
+                 ":@": {
+                   "distT": "0",
+                   "distB": "0",
+                   "distL": "0",
+                   "distR": "0"
+                 }
+               }
+             ]
+           }
+         ]
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidRDefault": "007A0150"
+     }
+   },
+   {
+     "w:sectPr": [
+       {
+         "w:pgSz": [],
+         ":@": {
+           "w:w": "12240",
+           "w:h": "15840"
+         }
+       },
+       {
+         "w:pgMar": [],
+         ":@": {
+           "w:top": "1440",
+           "w:right": "1800",
+           "w:bottom": "1440",
+           "w:left": "1800",
+           "w:header": "720",
+           "w:footer": "720",
+           "w:gutter": "0"
+         }
+       },
+       {
+         "w:cols": [],
+         ":@": {
+           "w:space": "720"
+         }
+       },
+       {
+         "w:docGrid": [],
+         ":@": {
+           "w:linePitch": "360"
+         }
+       }
+     ],
+     ":@": {
+       "w:rsidR": "00A300E6",
+       "w:rsidSect": "00034616"
+     }
+   }
+]
