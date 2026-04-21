@@ -4,10 +4,10 @@ import JSZip from "jszip";
 import { XMLParser } from "fast-xml-parser";
 
 const QUESTION_RE = /^(?:Q(?:uestion)?\s*)(\d+)\s*[:.)-]?\s*(.*)$/i;
-// const OPTION_RE = /^(?:\(\s*([A-D])\s*\)|([A-D])\s*[:.)-])\s*(.*)$/i;
 const OPTION_RE = /^(?:\(\s*([A-D])\s*\)|([A-D])\s*[:.)-]?)\s*(.*)$/i;
 const SOLUTION_RE = /^(?:solution|answer)\s*[:.-]?\s*(.*)$/i;
 const HINT_RE = /^hint\s*[:.-]?\s*(.*)$/i;
+const CORRECT_ANSWER_RE = /^(?:correct\s*answer|answer|ans|solutiontext)\s*[:.)-]?\s*\(?\s*([A-D])\s*\)?$/i;
 const NON_CONTENT_HEADING_RE = /^(?:SECTION\s+\d+\s*:.*|English Proficiency|Logical Reasoning|ANSWER KEY|Preparation Tips|Note:.*|Q\.\s*No\.|Answer|Topic\s*\/\s*Concept)$/i;
 
 const xmlParser = new XMLParser({
@@ -174,6 +174,14 @@ function detectField(text) {
     };
   }
 
+  const correctMatch = text.match(CORRECT_ANSWER_RE);
+  if (correctMatch) {
+    return {
+      fieldName: "correctAnswer",
+      cleanedText: correctMatch[1].toUpperCase()
+    };
+  }
+
   const solutionMatch = text.match(SOLUTION_RE);
   if (solutionMatch) {
     return { fieldName: "solutionText", cleanedText: solutionMatch[1].trim() };
@@ -214,6 +222,7 @@ function newQuestion(questionIndex) {
     optionDText: "",
     solutionText: "",
     hintText: "",
+    correctAnswer: "", 
     imagesByField: {},
     unresolvedRelationships: [],
     orphanAssets: []
@@ -249,7 +258,8 @@ function finalizeQuestion(question) {
     optionCText: normalizeWhitespace(question.optionCText),
     optionDText: normalizeWhitespace(question.optionDText),
     solutionText: normalizeWhitespace(question.solutionText),
-    hintText: normalizeWhitespace(question.hintText)
+    hintText: normalizeWhitespace(question.hintText),
+    correctAnswer: normalizeWhitespace(question.correctAnswer) 
   };
 }
 

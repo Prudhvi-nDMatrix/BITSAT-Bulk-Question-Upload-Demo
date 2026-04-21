@@ -1,105 +1,27 @@
 {
   "uploadJobs": [
     {
-      "id": "a679772a-793e-4856-b4cd-38390f94f93b",
+      "id": "8a9b8d08-1d7c-4986-ad0c-2a9ba7e7a8c1",
       "uploadedBy": "faculty.demo",
       "sourceFileName": "sample_valid.docx",
-      "sourceBlobUrl": "/data/uploads/a679772a-793e-4856-b4cd-38390f94f93b.docx",
-      "status": "COMPLETED",
-      "totalQuestionsDetected": 2,
-      "successCount": 2,
+      "sourceBlobUrl": "/data/uploads/8a9b8d08-1d7c-4986-ad0c-2a9ba7e7a8c1.docx",
+      "status": "PENDING",
+      "totalQuestionsDetected": 0,
+      "successCount": 0,
       "failureCount": 0,
       "errorReportJson": {
-        "jobId": "a679772a-793e-4856-b4cd-38390f94f93b",
-        "status": "COMPLETED",
-        "totalQuestionsDetected": 2,
-        "successCount": 2,
+        "jobId": "8a9b8d08-1d7c-4986-ad0c-2a9ba7e7a8c1",
+        "status": "PENDING",
+        "totalQuestionsDetected": 0,
+        "successCount": 0,
         "failureCount": 0,
         "errors": [],
         "warnings": []
       },
-      "createdAt": "2026-04-17T11:34:57.546Z",
-      "updatedAt": "2026-04-17T11:34:57.612Z"
+      "createdAt": "2026-04-21T09:45:44.738Z",
+      "updatedAt": "2026-04-21T09:45:44.738Z"
     }
   ],
-  "questions": [
-    {
-      "id": "8e06ab10-c1b8-454f-a503-fc0423239d4f",
-      "uploadJobId": "a679772a-793e-4856-b4cd-38390f94f93b",
-      "questionIndex": 1,
-      "questionText": "Find the current in the circuit shown below [[img:auto_1]]",
-      "optionAText": "2A [[img:auto_2]]",
-      "optionBText": "3A",
-      "optionCText": "4A",
-      "optionDText": "5A",
-      "solutionText": "Use V = IR and substitute the given values.",
-      "hintText": "Start from Ohm's law.",
-      "hasImages": true,
-      "ingestionStatus": "VALID"
-    },
-    {
-      "id": "ce3014da-a3e3-4070-8fd5-0d1874c88d5c",
-      "uploadJobId": "a679772a-793e-4856-b4cd-38390f94f93b",
-      "questionIndex": 2,
-      "questionText": "Identify the equivalent resistance",
-      "optionAText": "1 Ohm",
-      "optionBText": "2 Ohm",
-      "optionCText": "3 Ohm",
-      "optionDText": "4 Ohm",
-      "solutionText": "Series resistances add up. [[img:auto_3]] [[img:auto_4]]",
-      "hintText": "",
-      "hasImages": true,
-      "ingestionStatus": "VALID"
-    }
-  ],
-  "questionImages": [
-    {
-      "id": "c585a5dc-a06c-4f8f-8723-0a5db183dd36",
-      "fieldName": "questionText",
-      "imageKey": "auto_1",
-      "blobUrl": "/assets/fb0f57be-d08d-40d8-876c-ab46acacd0d9.png",
-      "sequenceOrder": 1,
-      "sourceDocxRelId": "rId6",
-      "contentType": "image/png",
-      "width": null,
-      "height": null,
-      "questionId": "8e06ab10-c1b8-454f-a503-fc0423239d4f"
-    },
-    {
-      "id": "e4fa79ea-afe7-4180-a13e-072ba8d4a673",
-      "fieldName": "optionAText",
-      "imageKey": "auto_2",
-      "blobUrl": "/assets/e196ed9b-24a2-48e1-ba3a-2ec50de03d43.png",
-      "sequenceOrder": 1,
-      "sourceDocxRelId": "rId7",
-      "contentType": "image/png",
-      "width": null,
-      "height": null,
-      "questionId": "8e06ab10-c1b8-454f-a503-fc0423239d4f"
-    },
-    {
-      "id": "ec358be6-51dc-4d27-a6f1-5af37d63a46e",
-      "fieldName": "solutionText",
-      "imageKey": "auto_3",
-      "blobUrl": "/assets/fabb3438-fdc0-498d-bdc4-4edc40001028.png",
-      "sequenceOrder": 1,
-      "sourceDocxRelId": "rId7",
-      "contentType": "image/png",
-      "width": null,
-      "height": null,
-      "questionId": "ce3014da-a3e3-4070-8fd5-0d1874c88d5c"
-    },
-    {
-      "id": "32873021-e3af-4a61-8858-190ebbb63218",
-      "fieldName": "solutionText",
-      "imageKey": "auto_4",
-      "blobUrl": "/assets/a64b48c9-46e9-46a3-b3bc-14fae3108e5c.png",
-      "sequenceOrder": 2,
-      "sourceDocxRelId": "rId6",
-      "contentType": "image/png",
-      "width": null,
-      "height": null,
-      "questionId": "ce3014da-a3e3-4070-8fd5-0d1874c88d5c"
-    }
-  ]
+  "questions": [],
+  "questionImages": []
 }

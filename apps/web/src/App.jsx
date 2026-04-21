@@ -237,6 +237,7 @@ export default function App() {
                         <RichField label="Solution" value={question.solutionText} images={question.images || []} fieldName="solutionText" />
                         <RichField label="Hint" value={question.hintText} images={question.images || []} fieldName="hintText" />
                         <AssetRail images={question.images || []} />
+                        <RichField label="Correct Answer" value={question.correctAnswer} images={question.images || []} fieldName="Correct Answer" compact />
                       </div>
                     </div>
                   </article>
@@ -411,6 +412,7 @@ function matchesField(imageField, uiField) {
     optionctext: ["optionctext", "option_c", "option_c_text"],
     optiondtext: ["optiondtext", "option_d", "option_d_text"],
     solutiontext: ["solutiontext", "solution", "solution_text"],
+    correctAnswer:["correct_answer", "correctAnswer"],
     hinttext: ["hinttext", "hint", "hint_text"]
   };
 
